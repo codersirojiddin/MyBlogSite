@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "AI takes Devs",
+    "slug": "ai-takes-devs",
+    "category": "essay",
+    "content": "Admin xavfsizligi haqida\r\n\r\n3 ta xato urinishdan keyingi bloklash MVP uchun yaxshi, lekin bu hali kuchli himoya emas. Haqiqiy himoya uchun keyin rate limit, hashed password, proper auth/session va middleware kerak bo‘ladi.\r\n\r\nGitHub’ga chiqarishdan oldin\r\n\r\n.gitignore ichida shular bo‘lsin:",
+    "createdAt": "2026-03-18T07:43:28.460Z",
+    "updatedAt": "2026-03-18T07:43:28.460Z"
+  }
+]
